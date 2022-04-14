@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased](https://github.com/OpenLineage/OpenLineage/compare/0.8.1...HEAD)
+### Added
+* Column level lineage introduced for Spark integration ([#698](https://github.com/OpenLineage/OpenLineage/pull/698), [#645](https://github.com/OpenLineage/OpenLineage/pull/645)) [@pawel-big-lebowski](https://github.com/pawel-big-lebowski)
 
 ## [0.8.1](https://github.com/OpenLineage/OpenLineage/compare/0.7.1...0.8.1)
 ### Added
