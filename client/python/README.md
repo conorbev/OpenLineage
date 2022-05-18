@@ -1,3 +1,5 @@
+<!-- Copyright 2018-2022 contributors to the OpenLineage project -->
+
 # OpenLineage-python
 
 To install from source, run:

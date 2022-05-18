@@ -1,3 +1,5 @@
+// Copyright 2018-2022 contributors to the OpenLineage project
+
 mod bigquery;
 
 use std::collections::hash_map::DefaultHasher;

@@ -1,3 +1,5 @@
+// Copyright 2018-2022 contributors to the OpenLineage project
+
 use openlineage_sql::SqlMeta;
 
 #[macro_use]

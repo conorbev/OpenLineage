@@ -1,3 +1,5 @@
+/* Copyright 2018-2022 contributors to the OpenLineage project */
+
 package io.openlineage.spark3.agent.lifecycle.plan.catalog;
 
 import io.openlineage.spark.agent.facets.TableProviderFacet;

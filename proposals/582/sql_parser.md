@@ -1,3 +1,5 @@
+<!-- Copyright 2018-2022 contributors to the OpenLineage project -->
+
 ## Intro 
 Translating SQL queries into meaningful OpenLineage events is an essential feature within the lineage context. 
 Although the problem is complex, once solved it can be applied within multiple components like Airflow integration, Marquez backend or even Spark SQL. 

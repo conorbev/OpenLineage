@@ -1,3 +1,5 @@
+/* Copyright 2018-2022 contributors to the OpenLineage project */
+
 package io.openlineage.spark3.agent.utils;
 
 import static io.openlineage.spark.agent.util.ScalaConversionUtils.asJavaOptional;

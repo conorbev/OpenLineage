@@ -1,2 +1,4 @@
+Copyright 2018-2022 contributors to the OpenLineage project
+
 flask==2.0.1
 python-dateutil==2.8.2

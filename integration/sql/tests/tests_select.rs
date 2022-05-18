@@ -1,3 +1,5 @@
+// Copyright 2018-2022 contributors to the OpenLineage project
+
 use openlineage_sql::{parse_sql, BigQueryDialect, SqlMeta};
 use std::sync::Arc;
 

@@ -1,3 +1,5 @@
+// Copyright 2018-2022 contributors to the OpenLineage project
+
 #[macro_use]
 mod test_utils;
 

@@ -1,3 +1,5 @@
+<!-- Copyright 2018-2022 contributors to the OpenLineage project -->
+
 # OpenLineage Java Client
 
 Java client for [OpenLineage](https://openlineage.io).

@@ -1,3 +1,5 @@
+# Copyright 2018-2022 contributors to the OpenLineage project
+
 #!/bin/bash
 #
 # SPDX-License-Identifier: Apache-2.0.

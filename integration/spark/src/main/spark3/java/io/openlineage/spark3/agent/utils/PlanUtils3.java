@@ -1,3 +1,5 @@
+/* Copyright 2018-2022 contributors to the OpenLineage project */
+
 package io.openlineage.spark3.agent.utils;
 
 import io.openlineage.client.OpenLineage;

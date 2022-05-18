@@ -1,3 +1,5 @@
+# Copyright 2018-2022 contributors to the OpenLineage project
+
 #!/bin/bash
 #
 # see: https://github.com/vishnubob/wait-for-it

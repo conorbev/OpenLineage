@@ -1,3 +1,5 @@
+<!-- Copyright 2018-2022 contributors to the OpenLineage project -->
+
 # OpenLineage Dagster Integration
 
 A library that integrates [Dagster](https://dagster.io/) with [OpenLineage](https://openlineage.io) for automatic metadata collection.

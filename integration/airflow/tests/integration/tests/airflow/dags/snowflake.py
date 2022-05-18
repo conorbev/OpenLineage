@@ -1,3 +1,5 @@
+# Copyright 2018-2022 contributors to the OpenLineage project
+
 import os
 
 from airflow.providers.snowflake.operators.snowflake import SnowflakeOperator

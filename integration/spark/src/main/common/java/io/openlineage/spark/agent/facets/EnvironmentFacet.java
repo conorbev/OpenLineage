@@ -1,3 +1,5 @@
+/* Copyright 2018-2022 contributors to the OpenLineage project */
+
 package io.openlineage.spark.agent.facets;
 
 import com.fasterxml.jackson.annotation.JsonProperty;

@@ -1,3 +1,5 @@
+// Copyright 2018-2022 contributors to the OpenLineage project
+
 use openlineage_sql::{get_dialect, get_generic_dialect, parse_sql, parse_multiple_statements, DbTableMeta, SqlMeta};
 use sqlparser::dialect::PostgreSqlDialect;
 

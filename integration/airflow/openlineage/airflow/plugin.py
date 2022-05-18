@@ -1,3 +1,5 @@
+# Copyright 2018-2022 contributors to the OpenLineage project
+
 from airflow.plugins_manager import AirflowPlugin
 from airflow.version import version as AIRFLOW_VERSION
 from pkg_resources import parse_version

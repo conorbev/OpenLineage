@@ -1,3 +1,5 @@
+<!-- Copyright 2018-2022 contributors to the OpenLineage project -->
+
 # OpenLineage Integrations
 |Integration|Release Link|Compatible Version|Latest Release|
 |-|-|-|-|

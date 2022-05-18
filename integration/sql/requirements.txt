@@ -1,1 +1,3 @@
+Copyright 2018-2022 contributors to the OpenLineage project
+
 pytest==7.1.1

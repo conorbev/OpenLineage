@@ -1,3 +1,5 @@
+// Copyright 2018-2022 contributors to the OpenLineage project
+
 extern crate core;
 
 use openlineage_sql::{parse_sql, SqlMeta};

@@ -1,3 +1,5 @@
+/* Copyright 2018-2022 contributors to the OpenLineage project */
+
 package io.openlineage.client.transports;
 
 import com.fasterxml.jackson.annotation.JsonSubTypes;

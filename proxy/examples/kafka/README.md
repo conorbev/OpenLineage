@@ -1,3 +1,5 @@
+<!-- Copyright 2018-2022 contributors to the OpenLineage project -->
+
 # [`Kafka`](https://kafka.apache.org) Example
 
 ## 1. Start the Kafka broker and Proxy backend

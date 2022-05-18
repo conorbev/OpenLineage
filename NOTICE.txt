@@ -1,3 +1,5 @@
+Copyright 2018-2022 contributors to the OpenLineage project
+
 SPDX-License-Identifier: Apache-2.0
 
 This project includes code from the Marquez Project, part of the LFAI & Data Foundation.

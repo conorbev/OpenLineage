@@ -1,3 +1,5 @@
+/* Copyright 2018-2022 contributors to the OpenLineage project */
+
 package io.openlineage.client.transports;
 
 import static org.apache.http.Consts.UTF_8;
